@@ -1,11 +1,9 @@
-package gr.aueb.cf.jax.api;
+package gr.aueb.cf.schoolapp.api;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
-
-import java.awt.*;
 
 
 @Path("/hello")

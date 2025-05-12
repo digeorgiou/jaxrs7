@@ -1,4 +1,4 @@
-package gr.aueb.cf.jax.dto;
+package gr.aueb.cf.schoolapp.dto;
 
 public record TeacherReadOnlyDTO(
         Long id,

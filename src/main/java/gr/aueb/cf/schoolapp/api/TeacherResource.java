@@ -1,6 +1,6 @@
-package gr.aueb.cf.jax.api;
+package gr.aueb.cf.schoolapp.api;
 
-import gr.aueb.cf.jax.dto.TeacherReadOnlyDTO;
+import gr.aueb.cf.schoolapp.dto.TeacherReadOnlyDTO;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.PathParam;

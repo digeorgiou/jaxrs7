@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--To beans ειναι το βασικο config αρχειο του CDI-->
+<!--παιρνει ολες τις annotated κλασεις και τις βαζει μεσα στον IOC container
+για να μπορουμε να την κανουμε inject οπου θελουμε -->
+
 <beans xmlns="https://jakarta.ee/xml/ns/jakartaee"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
