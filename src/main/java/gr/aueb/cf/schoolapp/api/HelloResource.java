@@ -8,17 +8,17 @@ import jakarta.ws.rs.core.MediaType;
 
 @Path("/hello")
 public class HelloResource {
-
-    @GET
-    @Path("/cf")
-    @Produces(MediaType.TEXT_PLAIN)
-    public String hello() {
-        return "Hello from CF7!!!";
-    }
-
-    @GET
-    @Path("/dimitris")
-    @Produces(MediaType.TEXT_PLAIN)
-    public String helloDimitris() {return "Γεια σου Δημήτρη";}
+//
+//    @GET
+//    @Path("/cf")
+//    @Produces(MediaType.TEXT_PLAIN)
+//    public String hello() {
+//        return "Hello from CF7!!!";
+//    }
+//
+//    @GET
+//    @Path("/dimitris")
+//    @Produces(MediaType.TEXT_PLAIN)
+//    public String helloDimitris() {return "Γεια σου Δημήτρη";}
 
 }
